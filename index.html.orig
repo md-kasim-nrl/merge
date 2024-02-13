@@ -1,0 +1,11 @@
+<html>
+<head>
+This is a merge conflict example
+<body>
+<<<<<<< HEAD
+b1 changes
+=======
+b2 changes
+>>>>>>> b2
+</html>
+
